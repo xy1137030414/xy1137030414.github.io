@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Beijing Language and Culture University, Beijing, China.
+subtitle: <a href='#'>PH.D at Beijing Language and Culture University</a>. Beijing, China.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 </p>xy1137030414@gamil.com
-    <p>123 NO.15, Xueyuan Road, Haidian District</p>
-    <p>Your Beijing, China, 10083</p>
+    <p></p>xy1137030414@gamil.com
+    <p>NO.15, Xueyuan Road, Haidian District</p>
+    <p>Beijing, China, 10083</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
